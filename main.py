@@ -6,3 +6,5 @@ print("hello world5")
 print("hello world update on GitHub")
 
 print("hello world updates on local master branch")
+
+print("hello world update 2 on GitHub only")
